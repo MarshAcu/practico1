@@ -1,0 +1,77 @@
+@import url('https://fonts.cdnfonts.com/css/nt-seawave-alternative');
+@import url('https://fonts.cdnfonts.com/css/sefund-ragattrial');
+
+body {
+    font-family: 'NT SEAWAVE (standart)', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 5em;
+}
+
+h2 {
+    text-align: center;
+    color: #555555;
+}
+
+.content-center {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    border: 2px solid #555555;
+    border-radius: 12px;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    background-color: white;
+    font-size: 16px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    margin: 1px;
+  }
+
+  button:hover {
+    background-color: #555555;
+    color: white;
+  }
+
+  input {
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+  select {
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+  label {
+    font-family: 'Sefund Ragattrial', sans-serif;
+    font-size: 20px;
+    padding: 15px 20px;
+    color: #8bf5ca;
+  }
+
+  .button-clear {
+    background-color: white;
+    color: #fb8761 ;
+    border: 2px solid #fb8761 ;
+  }
+  
+  .button-clear:hover {
+    background-color: #fb8761 ;
+    color: white;
+  }
