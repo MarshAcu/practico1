@@ -56,4 +56,5 @@ function clearCalculator() {
     document.getElementById('operator-1').value = 0;
     document.getElementById('operator-2').value = 0;
     document.getElementById('option-select').value = '+';
+    document.getElementById('option-label').innerHTML = '+';
 }

@@ -1,5 +1,6 @@
 @import url('https://fonts.cdnfonts.com/css/nt-seawave-alternative');
 @import url('https://fonts.cdnfonts.com/css/sefund-ragattrial');
+@import url('https://fonts.cdnfonts.com/css/phatone');
 
 body {
     font-family: 'NT SEAWAVE (standart)', sans-serif;
@@ -11,6 +12,7 @@ h1 {
 }
 
 h2 {
+    font-family: 'Phatone', sans-serif;
     text-align: center;
     color: #555555;
 }
