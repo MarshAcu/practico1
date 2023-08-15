@@ -4,23 +4,15 @@ _Esta app es una calculadora con funciones basicas para el practico numero 1 del
 
 ## Comenzando 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
-
-Mira **Deployment** para conocer como desplegar el proyecto.
+_Puedes probar la app desde el siguiente enlace_ [App](https://marshacu.github.io/practico1/)
 
 
 ### Pre-requisitos 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
-
-## Despliegue 📦
-
-_Agrega notas adicionales sobre como hacer deploy_
+_No necesitas ninguna libreria en particular para ejecutar esta app_
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> [Javascript](https://developer.mozilla.org/es/docs/Web/JavaScript) 
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>[HTML](https://developer.mozilla.org/es/docs/Web/HTML) 
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> [CSS](https://developer.mozilla.org/es/docs/Web/CSS) 
